@@ -1,0 +1,48 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+  box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: Roboto, sans-serif;
+}
+
+body {
+  font-size: 24px;
+  line-height: 32px;
+  color: #333;
+  font-family: "Roboto Slab", sans-serif;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+/* Add styling to recreate the layout on the screen */
+
+section::after {
+}
+
+#sidebar {
+}
+
+#largeContent {
+}
+
+#left {
+}
+
+#middle {
+}
+
+#right {
+}
+
+footer {
+}
